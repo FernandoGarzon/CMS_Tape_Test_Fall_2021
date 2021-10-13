@@ -1,0 +1,4 @@
+/TestSmall_15/TapeDataChallenge_T0_Disk_to_T1_Disks/CONTAINER
+/TestSmall_16/TapeDataChallenge_T0_Disk_to_T1_Disks/CONTAINER
+/TestSmall_17/TapeDataChallenge_T0_Disk_to_T1_Disks/CONTAINER
+/TestSmall_18/TapeDataChallenge_T0_Disk_to_T1_Disks/CONTAINER
