@@ -1,0 +1,7 @@
+/Test/TapeDataChallenge_Fall2021_WritingTest_CCIN2P3/CONTAINER
+/Test/TapeDataChallenge_Fall2021_WritingTest_CNAF/CONTAINER
+/Test/TapeDataChallenge_Fall2021_WritingTest_FNAL/CONTAINER
+/Test/TapeDataChallenge_Fall2021_WritingTest_JINR/CONTAINER
+/Test/TapeDataChallenge_Fall2021_WritingTest_KIT/CONTAINER
+/Test/TapeDataChallenge_Fall2021_WritingTest_PIC/CONTAINER
+/Test/TapeDataChallenge_Fall2021_WritingTest_RAL/CONTAINER
