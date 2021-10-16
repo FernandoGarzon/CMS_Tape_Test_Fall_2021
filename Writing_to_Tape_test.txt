@@ -1,4 +1,4 @@
-/Test/TapeDataChallenge_Fall2021_WritingTest_CCIN2P3/CONTAINER
+/Test/TapeDataChallenge_Fall2021_WritingTest_CCIN2P3/CONTAINER 5312d58129744a3ca64b320de22aef19
 /Test/TapeDataChallenge_Fall2021_WritingTest_CNAF/CONTAINER
 /Test/TapeDataChallenge_Fall2021_WritingTest_FNAL/CONTAINER
 /Test/TapeDataChallenge_Fall2021_WritingTest_JINR/CONTAINER
